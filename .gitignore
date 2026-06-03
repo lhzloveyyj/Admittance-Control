@@ -1,0 +1,11 @@
+# Simulink autosave
+*.slx.autosave
+
+# MATLAB temp
+*.asv
+*.m~
+*.slxc
+
+# OS
+.DS_Store
+Thumbs.db
